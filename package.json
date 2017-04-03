@@ -14,7 +14,6 @@
     "name": "Mike Bostock",
     "url": "http://bost.ocks.org/mike"
   },
-  "main": "build/d3-scale.js",
   "module": "index",
   "jsnext:main": "index",
   "repository": {
